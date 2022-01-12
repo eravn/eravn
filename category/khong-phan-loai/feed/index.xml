@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Chưa phân loại &#8211; Viet Era</title>
+	<title>Chưa phân loại &#8211; Era of Chaos</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
-	<description>Have Fun</description>
+	<description>EraVN</description>
 	<lastBuildDate>Sun, 09 Jan 2022 06:02:32 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2022/01/Logo-web-small.png</url>
-	<title>Chưa phân loại &#8211; Viet Era</title>
+	<title>Chưa phân loại &#8211; Era of Chaos</title>
 	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
